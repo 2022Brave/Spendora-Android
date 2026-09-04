@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPENDORA</string>
+    <string name="app_tagline">Privacy-First Personal Finance</string>
+    <string name="privacy_guarantee">100% Offline. Zero Cloud. Zero Telemetry.</string>
+</resources>

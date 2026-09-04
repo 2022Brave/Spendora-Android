@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Spendora" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/spendora_bg_dark</item>
+        <item name="android:navigationBarColor">@color/spendora_bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Spendora.Splash" parent="Theme.Spendora">
+        <item name="android:windowBackground">@drawable/splash_background_night</item>
+        <item name="android:statusBarColor">@color/spendora_bg_dark</item>
+        <item name="android:navigationBarColor">@color/spendora_bg_dark</item>
+    </style>
+</resources>
